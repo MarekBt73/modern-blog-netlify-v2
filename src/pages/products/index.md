@@ -2,8 +2,8 @@
 heading: Witaj na stronie internetowej
 path: /products
 templateKey: product-page
-title: Our Coffee
-image: /img/jumbotron.jpg
+title: Twoja strona WWW
+image: /img/strona-ktora-zarabia.webp
 description: Strona internetowa próbna
 intro:
   blurbs:
@@ -34,6 +34,8 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+    - image: /img/apple-touch-icon.png
+      text: To jest text
   heading: Co to jest
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
